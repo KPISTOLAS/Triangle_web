@@ -1,0 +1,48 @@
+body {
+        
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20200604/pngtree-hand-account-style-mathematics-education-background-image_337863.jpg'); 
+    background-size: cover;
+  background-position: center;
+       }
+
+
+.button-container {
+    text-align: center;
+}
+
+button   {
+    padding: 10px 20px;
+    margin: 5px;  padding: 15px 30px; /* Increase padding for bigger buttons */
+    margin: 10px; /* Increase margin for spacing */
+    font-size: 16px; /* Increase font size for button text */
+    background-color: #3498db; /* Change background color */
+    color: #fff; /* Change text color */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer;
+}
+input  {
+padding: 10px 20px;
+    margin: 5px;  padding: 15px 30px; /* Increase padding for bigger buttons */
+    margin: 10px; /* Increase margin for spacing */
+    font-size: 16px; /* Increase font size for button text */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer;
+}
+ p {
+            padding: 10px 20px;
+    margin: 5px;  padding: 15px 30px; /* Increase padding for bigger buttons */
+    margin: 10px; /* Increase margin for spacing */
+    font-size: 16px; /* Increase font size for button text */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer;padding: 20px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
